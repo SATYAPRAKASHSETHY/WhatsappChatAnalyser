@@ -1,0 +1,9 @@
+python 3.7
+streamlit
+matplotlib
+seaborn
+urlextract
+wordcloud
+pandas
+emoji
+https://www.loom.com/share/cc818e078ff046ba9e3332eeee42ad6e
